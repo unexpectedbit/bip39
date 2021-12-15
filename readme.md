@@ -2,14 +2,10 @@
 
 A tool for converting BIP39 mnemonic phrases to addresses and private keys.
 
-## Online Version
-
-https://iancoleman.io/bip39/
-
 ## Standalone offline version
 
 Download `bip39-standalone.html` from
-[the releases](https://github.com/iancoleman/bip39/releases).
+[the releases](https://github.com/unexpectedbit/bip39/releases).
 
 Open the file in a browser by double clicking it.
 
@@ -18,7 +14,11 @@ This can be compiled from source using the command `python compile.py`
 ## Usage
 
 Enter your BIP39 phrase into the 'BIP39 Phrase' field, or press
-'Generate Random Phrase'
+'Generate Random Phrase'. 
+
+You can also split or reconstruct the phrase. 
+
+!! Offline QR code scanning is only supported in Firefox browser !!
 
 If required, set the derivation path, although the defaults are quite usable.
 
