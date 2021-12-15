@@ -18,7 +18,7 @@ Enter your BIP39 phrase into the 'BIP39 Phrase' field, or press
 
 You can also split or reconstruct the phrase. 
 
-!! Offline QR code scanning is only supported in Firefox browser !!
+Offline QR code scanning is only supported in Firefox browser.
 
 If required, set the derivation path, although the defaults are quite usable.
 
